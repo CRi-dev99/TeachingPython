@@ -5,7 +5,7 @@
 - input()
 - if, elif, else statements
 - for loops
-- while loops4
+- while loops
 - nested loops
 - nested ifs
 - string manipulation
